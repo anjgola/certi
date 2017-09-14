@@ -1,5 +1,5 @@
 {
-  "endpoint": "arn:aws:iot:us-west-2:321402259547:thing/Thing1",
+  "endpoint": "a1ugmusbn0c5ok.iot.us-west-2.amazonaws.com",
   "mqtt_port": 8883,
   "https_port": 443,
   "greengrass_discovery_port": 8443,
